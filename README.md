@@ -9,3 +9,7 @@ Telegram theme that looks like the WhatsApp Dark theme.
  - Download the [latest release](https://github.com/hmlendea/telegram-theme-whatsapp-dark/releases/latest)
  - Send **WhatsApp.Dark.attheme** to your phone _(e.g. to your Telegram's Saved Messages)_
  - Open that file using Telegram
+
+# Preview
+
+![Screenshot](screenshot.png)
